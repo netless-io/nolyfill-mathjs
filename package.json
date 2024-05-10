@@ -1,6 +1,6 @@
 {
   "name": "@netless/nolyfill-mathjs",
-  "version": "0.1.0-beta.0",
+  "version": "0.1.0",
   "description": "Replace mathjs with noop.",
   "author": "hyrious <hyrious@outlook.com>",
   "license": "MIT",
