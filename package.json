@@ -1,0 +1,18 @@
+{
+  "name": "@netless/nolyfill-mathjs",
+  "version": "0.1.0-beta.0",
+  "description": "Replace mathjs with noop.",
+  "author": "hyrious <hyrious@outlook.com>",
+  "license": "MIT",
+  "repository": "netless-io/nolyfill-mathjs",
+  "keywords": [
+    "mathjs",
+    "white-web-sdk"
+  ],
+  "main": "index.js",
+  "module": "index.mjs",
+  "files": [
+    "index.js",
+    "index.mjs"
+  ]
+}
